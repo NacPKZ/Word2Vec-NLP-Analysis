@@ -1,0 +1,16 @@
+# Environnement Python
+.venv/
+__pycache__/
+*.pyc
+
+# Datasets et corpus volumineux
+data/
+results/*_tokens.json
+
+# Modèles entraînés volumineux
+models/*.model
+models/*.model.*
+
+# Fichiers temporaires
+.ipynb_checkpoints/
+.DS_Store

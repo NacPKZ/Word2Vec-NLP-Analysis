@@ -1,0 +1,5 @@
+dataset,architecture,vector_size,window,min_count,epochs,vocabulaire,temps_secondes
+films,cbow,100,5,5,5,22475,6.4
+films,skipgram,100,5,5,5,22475,19.13
+amazon,cbow,100,5,5,5,32764,140.01
+amazon,skipgram,100,5,5,5,32764,426.09
